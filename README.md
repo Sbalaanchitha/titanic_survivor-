@@ -1,5 +1,4 @@
 # titanic_survivor-
-Absolutely Bala! Based on your Titanic survival prediction project using Flask and machine learning, here’s a polished and detailed `README.md` you can drop right into your project folder. It’s tailored for clarity and professionalism, and you can tweak it depending on what extras you add later.
 
 ---
 
@@ -71,7 +70,7 @@ TitanicPrediction/
 pip install -r requirements.txt
 ```
 
-### 2. Start the Flask server
+### 2. Start the FastAPI server
 ```bash
 cd App
 python app.py
@@ -79,7 +78,7 @@ python app.py
 
 ### 3. Access locally in browser
 ```
-http://127.0.0.1:5000/
+http://127.0.0.1:5000/docs
 ```
 
 ---
